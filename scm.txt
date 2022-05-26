@@ -1,1 +1,7 @@
-scm experiment
+Adding content in the git file
+cat>scm.txt
+cat scm.txt
+hello scm
+cleat
+clear
+clear/
